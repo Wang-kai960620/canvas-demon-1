@@ -6,7 +6,9 @@
 #canvas {
   display: block;
   position: relative;
+  overflow: hidden;
 }
+
 .color{
   top: 50px;
   position: absolute;
